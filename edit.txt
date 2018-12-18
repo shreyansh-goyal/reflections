@@ -1,1 +1,2 @@
 This file is created to understand git and github
+THIS FILE IS AGAIN EDITTED TO UNDERSTAND THE MERGE CONFLICT.
